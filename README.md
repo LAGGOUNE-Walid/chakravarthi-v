@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-
+<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who's currently learning MERN stack web development</h3>
 
 <br>
 
@@ -27,7 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
   <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakri's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
   </a>
 
 
